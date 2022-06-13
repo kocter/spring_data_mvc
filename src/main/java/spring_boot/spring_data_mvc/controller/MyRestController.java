@@ -28,9 +28,13 @@ public class MyRestController {
 
 
     @RequestMapping("/")
-    public String execute(Model model){
-        model.addAttribute("jsp","my first spring-boot && jsp");
+    public String getWelcome(){
         return "welcome";
+    }
+
+    @RequestMapping("/classified-information")
+    public String getSecret(){
+        return "classified-information";
     }
 
 
