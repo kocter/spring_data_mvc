@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>Search by name</h2>
+<h2>Search by time</h2>
 <br>
 
 
