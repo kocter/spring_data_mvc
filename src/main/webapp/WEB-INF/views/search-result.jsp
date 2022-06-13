@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<h2>All Employees</h2>
+<h2>Search result</h2>
 <br>
 
 <table>
