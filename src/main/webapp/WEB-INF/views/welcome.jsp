@@ -5,7 +5,7 @@
 <h2>Hello info</h2>
 <br>
 
-
+<h1>Welcome to Hell</h1>
 
 <security:authorize access="hasRole('ADMIN')">
 <td><input type="button" value="classified-information" onclick="window.location.href='classified-information'"/></td>
